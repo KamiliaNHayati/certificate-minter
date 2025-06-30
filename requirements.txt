@@ -1,0 +1,9 @@
+# Algorand development dependencies
+algopy>=1.0.0
+algokit-utils>=2.0.0
+pyteal>=0.24.0
+
+# Development tools
+pytest>=7.0.0
+black>=22.0.0
+mypy>=1.0.0
