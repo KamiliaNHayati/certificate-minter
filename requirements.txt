@@ -1,5 +1,5 @@
 # Algorand development dependencies
-algopy>=1.0.0
+algopy==0.7.2
 algokit-utils>=2.0.0
 pyteal>=0.24.0
 
